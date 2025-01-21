@@ -4,8 +4,8 @@
 Je m'appelle Pierre Valadeau, j'ai 26 ans, je suis passionné par le développement Web et l'informatique depuis des années.
 Ne faisant que du développement sur mon temps libre et souhaitant me reconvertir professionnellement, j'ai commencé une formation Développeur Fullstack en Juillet 2023 chez l'école O'clock pour une durée de 6 mois.
 
-## Technos 🔭                                                                                                                         ## Learning 🎒
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                              ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+## Technos 🔭                                                                                                                       
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
