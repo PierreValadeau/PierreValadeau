@@ -5,17 +5,15 @@ Je m'appelle Pierre Valadeau, j'ai 26 ans, je suis passionné par le développem
 Ne faisant que du développement sur mon temps libre et souhaitant me reconvertir professionnellement, j'ai commencé une formation Développeur Fullstack en Juillet 2023 chez l'école O'clock pour une durée de 6 mois.
 
 ## Technos 🔭
-- HTML5 
-- CSS
-- Javascript
-- Wordpress
-- Tailwin CSS 
-- React
-- [text](https://camo.githubusercontent.com/712fe9f859842b819e7f5eed491831f2f873d055ff14cfe0915ee538a4be1b42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
-## Learning 🎒
-- VueJS
-- TypeScript
-- 
+## Technos 🔭
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## Environnement ⚡
 - Windows
