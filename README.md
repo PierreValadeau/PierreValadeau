@@ -1,7 +1,7 @@
 # Hello World 👋
 
 ## 💬 Mais, qui suis-je ?
-Je m'appelle Pierre Valadeau, j'ai 26 ans et je suis passionné par le développement web et l'informatique depuis plusieurs années.
+Je m'appelle Pierre Valadeau, j'ai 27 ans et je suis passionné par le développement web et l'informatique depuis plusieurs années.
 Ne pratiquant le développement que sur mon temps libre jusqu'à présent et souhaitant me reconvertir professionnellement, j'ai débuté une formation de Développeur Fullstack en mars 2023 à l'école O'clock, d'une durée de six mois.
 Depuis, je continue à me former en autodidacte et à travailler sur des projets inspirés des problématiques rencontrées par les entreprises. 
 
