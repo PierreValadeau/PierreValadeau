@@ -2,8 +2,11 @@
 
 ## 💬 Mais, qui suis-je ?
 Je m'appelle Pierre Valadeau, j'ai 27 ans et je suis passionné par le développement web et l'informatique depuis plusieurs années.
-Ne pratiquant le développement que sur mon temps libre jusqu'à présent et souhaitant me reconvertir professionnellement, j'ai débuté une formation de Développeur Fullstack en mars 2023 à l'école O'clock, d'une durée de six mois.
-Depuis, je continue à me former en autodidacte et à travailler sur des projets inspirés des problématiques rencontrées par les entreprises. 
+Après avoir pratiqué le développement en autodidacte sur mon temps libre, j’ai décidé d’en faire mon métier en entamant une reconversion professionnelle.
+
+En mars 2023, j’ai suivi une première formation de Développeur Fullstack JavaScript à l’école O’clock, d’une durée de six mois. Puis en 2025, j’ai approfondi mes compétences côté serveur à travers une formation spécialisée en backend Node.js, avec un focus sur Express.js, Sequelize, PostgreSQL et les bonnes pratiques de conception d’API REST.
+
+Depuis, je continue à progresser à travers des projets concrets inspirés des besoins des entreprises, tout en me préparant à intégrer un Bac+5 en informatique à la rentrée prochaine. Mon objectif est de renforcer mes compétences en développement backend, cybersécurité et architecture logicielle, afin d’apporter une réelle valeur ajoutée dans les équipes que je rejoindrai.
 
 ## Technos 🔭                                                                                                                       
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
