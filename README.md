@@ -7,7 +7,7 @@ Après avoir pratiqué le développement en autodidacte sur mon temps libre, j�
 En mars 2023, j’ai suivi une première formation de Développeur Fullstack JavaScript à l’école O’clock, d’une durée de six mois. Puis en 2025, j’ai approfondi mes compétences côté serveur à travers une formation spécialisée en backend Node.js, avec un focus sur Express.js, Sequelize, PostgreSQL et les bonnes pratiques de conception d’API REST.
 
 Je suis actuellement étudiant en **pré-MSc à Epitech Bordeaux**, en préparation d’un Master en informatique.  
-Dans ce cadre, je suis **à la recherche d’une alternance à partir de janvier 2026**, afin de renforcer mes compétences en développement backend, cybersécurité et architecture logicielle tout en apportant une réelle valeur ajoutée à l’équipe que je rejoindrai.
+Dans ce cadre, je suis **à la recherche d’une alternance à partir de janvier 2026**, afin de renforcer mes compétences en développement web, cybersécurité et architecture logicielle tout en apportant une réelle valeur ajoutée à l’équipe que je rejoindrai.
 
 ## Technos 🔭                                                                                                                       
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
